@@ -1,0 +1,14 @@
+{
+  "name": "rss-reader",
+  "version": "1.0.0",
+  "description": "Testing out NodeJs with an RSS reader app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emile Haas",
+  "license": "ISC",
+  "dependencies": {
+    "rss-parser": "^3.12.0"
+  }
+}
